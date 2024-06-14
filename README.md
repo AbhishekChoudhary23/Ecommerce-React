@@ -1,8 +1,7 @@
-# React + Vite
+# Ecommerce website (SHOPPERS) using React js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An Ecommerce website created using React components, Context APIs, Firebase for Login user, and dynamic cart and product values updation
 
-Currently, two official plugins are available:
+Deployment Link: https://shopper-ecommerce-website.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![shopper-ecommerce-website netlify app](https://github.com/AbhishekChoudhary23/Ecommerce-react/assets/76167003/b221dab8-7dc6-45e1-b5d7-279ab651d87a)
